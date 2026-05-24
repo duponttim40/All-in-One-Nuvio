@@ -428,7 +428,7 @@
       "version": "1.0.1",
       "author": "Nuvio Team",
       "supportedTypes": ["movie"],
-      "filename": "src/providers/movies4u.js",
+      "filename": "providers/movies4u.js",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
       "logo": "https://i.postimg.cc/J0QG1QhQ/movies4u.jpg",
