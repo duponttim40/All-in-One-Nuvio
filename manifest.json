@@ -425,8 +425,8 @@
     {
       "id": "movies4u",
       "name": "Movies4u",
-      "description": "Auto-generated description for Movies4u",
-      "version": "1.0.1",
+      "description": "Hollywood, Bollywood movies including web series, & Hindi dubbed movies in HD quality",
+      "version": "1.0.2",
       "author": "Nuvio Team",
       "supportedTypes": ["movie"],
       "filename": "providers/movies4u.js",
